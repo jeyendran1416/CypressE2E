@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeyendran1416/CypressE2E/issues"
   },
-  "homepage": "https://github.com/jeyendran1416/CypressE2E#readme"
+  "homepage": "https://github.com/jeyendran1416/CypressE2E#readme",
+  "devDependencies": {
+    "cypress": "^4.4.1"
+  }
 }
