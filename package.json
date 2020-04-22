@@ -1,0 +1,19 @@
+{
+  "name": "cypresse2e",
+  "version": "1.0.0",
+  "description": "Keep the JS automation code for sample app's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyendran1416/CypressE2E.git"
+  },
+  "author": "Jeyendran Kathirvel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeyendran1416/CypressE2E/issues"
+  },
+  "homepage": "https://github.com/jeyendran1416/CypressE2E#readme"
+}
